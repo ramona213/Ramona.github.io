@@ -6,7 +6,7 @@
 .header{
     min-height: 100vh;
     width: 100%;
-    background-image: url(images/background.jpeg);
+    background-image: url(background.jpeg);
     background-position: center;
     background-size: cover;
     position: relative;
@@ -105,7 +105,7 @@ nav.fa{
 .pets{
     width: 100%;
     margin: auto;
-    background-image:url(images/creme%20.jpeg);
+    background-image:url(creme%20.jpeg);
     text-align: center;
     padding-top: 20px;
     padding-bottom: 20px;
@@ -132,7 +132,7 @@ p{
 .COVID{
     width: 100%;
     margin: auto;
-    background: url(images/background.jpeg);
+    background: url(background.jpeg);
     background-position: center;
     background-size: cover;
     position: relative;
@@ -340,7 +340,7 @@ p2{
 .videos{
     width: 100%;
     margin: auto;
-    background: url(images/background.jpeg);
+    background: url(background.jpeg);
     background-position: center;
     background-size: cover;
     position: relative;
